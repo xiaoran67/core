@@ -1,12 +1,12 @@
-## 📝 Recent Commits (Update Repo)
+## 📝 Recent Commits (core Repo)
 
- [![update](https://github.com/xiaoran67/update/actions/workflows/livesource.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/livesource.yml)
- [![update](https://github.com/xiaoran67/update/actions/workflows/Cross-repositoryMulti-PlatformSync.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/Cross-repositoryMulti-PlatformSync.yml)
- [![update](https://github.com/xiaoran67/update/actions/workflows/Cross-repositorySynchronization.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/Cross-repositorySynchronization.yml)
- [![update](https://github.com/xiaoran67/update/actions/workflows/blacklist.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/blacklist.yml)
- [![update](https://github.com/xiaoran67/update/actions/workflows/update_clash_Sub.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/update_clash_Sub.yml)
- [![update](https://github.com/xiaoran67/update/actions/workflows/update_cctv_cstv.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/update_cctv_cstv.yml)
- [![update](https://github.com/xiaoran67/update/actions/workflows/freetv.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/freetv.yml)
+ [![core](https://github.com/xiaoran67/core/actions/workflows/livesource.yml/badge.svg)](https://github.com/xiaoran67/core/actions/workflows/livesource.yml)
+ [![core](https://github.com/xiaoran67/core/actions/workflows/Cross-repositoryMulti-PlatformSync.yml/badge.svg)](https://github.com/xiaoran67/core/actions/workflows/Cross-repositoryMulti-PlatformSync.yml)
+ [![core](https://github.com/xiaoran67/core/actions/workflows/Cross-repositorySynchronization.yml/badge.svg)](https://github.com/xiaoran67/core/actions/workflows/Cross-repositorySynchronization.yml)
+ [![core](https://github.com/xiaoran67/core/actions/workflows/blacklist.yml/badge.svg)](https://github.com/xiaoran67/core/actions/workflows/blacklist.yml)
+ [![core](https://github.com/xiaoran67/core/actions/workflows/core_clash_Sub.yml/badge.svg)](https://github.com/xiaoran67/core/actions/workflows/core_clash_Sub.yml)
+ [![core](https://github.com/xiaoran67/core/actions/workflows/core_cctv_cstv.yml/badge.svg)](https://github.com/xiaoran67/core/actions/workflows/core_cctv_cstv.yml)
+ [![core](https://github.com/xiaoran67/core/actions/workflows/freetv.yml/badge.svg)](https://github.com/xiaoran67/core/actions/workflows/freetv.yml)
 
 ### 📅 Streak Statistics
 <!-- Commit Streak Statistics -->
@@ -45,10 +45,10 @@
 <br clear="both">
 
 ### 📊 Star History
-[![Star History](https://starchart.cc/xiaoran67/update.svg?variant=adaptive)](https://starchart.cc/xiaoran67/update)
+[![Star History](https://starchart.cc/xiaoran67/core.svg?variant=adaptive)](https://starchart.cc/xiaoran67/core)
 
 ### ⭐ Star History Chart
-[![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/update&type=Date)](https://star-history.com/#xiaoran67/update&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=xiaoran67/core&type=Date)](https://star-history.com/#xiaoran67/core&Date)
 
 ### 📝 License
 [MIT](./LICENSE) License &copy; 2023-PRESENT [xiaoran67](https://github.com/xiaoran67)
@@ -80,24 +80,24 @@ This project is for educational and communication purposes only. All interface d
 <div align="center">
 <br>
 
-[![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update?style=social)](https://github.com/xiaoran67/update/network/members)
-[![Latest Release](https://img.shields.io/github/v/release/xiaoran67/update)](https://github.com/xiaoran67/update/releases/latest)
-[![Total Downloads](https://img.shields.io/github/downloads/xiaoran67/update/total)](https://github.com/xiaoran67/update/releases/latest)
-[![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/update)](https://github.com/xiaoran67/update/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/update)](https://github.com/xiaoran67/update/pulls)
-[![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/core?style=social)](https://github.com/xiaoran67/core/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/core?style=social)](https://github.com/xiaoran67/core/network/members)
+[![Latest Release](https://img.shields.io/github/v/release/xiaoran67/core)](https://github.com/xiaoran67/core/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/xiaoran67/core/total)](https://github.com/xiaoran67/core/releases/latest)
+[![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/core)](https://github.com/xiaoran67/core/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/core)](https://github.com/xiaoran67/core/pulls)
+[![License](https://img.shields.io/github/license/xiaoran67/core)](https://github.com/xiaoran67/core/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-%3D%203.13-47c219)](https://www.python.org/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/xiaoran67/update)](https://hub.docker.com/repository/docker/xiaoran67/update)
+[![Docker Pulls](https://img.shields.io/docker/pulls/xiaoran67/core)](https://hub.docker.com/repository/docker/xiaoran67/core)
 
 <br>
 
-[![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/update)](https://github.com/xiaoran67/update)
-[![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/update)](https://github.com/xiaoran67/update/fork)
-[![Latest Release](https://img.shields.io/github/v/release/xiaoran67/update)](https://github.com/xiaoran67/update/releases)
-[![Total Downloads](https://img.shields.io/github/downloads/xiaoran67/update/total)](https://github.com/xiaoran67/update/releases)
-[![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/update)](https://github.com/xiaoran67/update/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/update)](https://github.com/xiaoran67/update/pulls)
-[![License](https://img.shields.io/github/license/xiaoran67/update)](https://github.com/xiaoran67/update/blob/main/LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/xiaoran67/core)](https://github.com/xiaoran67/core)
+[![GitHub Forks](https://img.shields.io/github/forks/xiaoran67/core)](https://github.com/xiaoran67/core/fork)
+[![Latest Release](https://img.shields.io/github/v/release/xiaoran67/core)](https://github.com/xiaoran67/core/releases)
+[![Total Downloads](https://img.shields.io/github/downloads/xiaoran67/core/total)](https://github.com/xiaoran67/core/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/xiaoran67/core)](https://github.com/xiaoran67/core/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/xiaoran67/core)](https://github.com/xiaoran67/core/pulls)
+[![License](https://img.shields.io/github/license/xiaoran67/core)](https://github.com/xiaoran67/core/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-%3D%203.13-47c219)](https://www.python.org/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/xiaoran67/update)](https://hub.docker.com/repository/docker/xiaoran67/update)
+[![Docker Pulls](https://img.shields.io/docker/pulls/xiaoran67/core)](https://hub.docker.com/repository/docker/xiaoran67/core)
