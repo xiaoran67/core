@@ -1,0 +1,36 @@
+姓名: 自动发布直播源
+在……之上:
+  # 触发时机：直播源更新工作流完成后触发（需替换为你的更新工作流名称）
+工作流运行(_R):
+工作流程: ["livesource.yml"]  # 你的直播源更新工作流名称
+类型:
+      - 完成
+
+工作:
+释放:
+run-on: ubuntu-最新
+如果: ${{github.event.workflow_run.conclusion=='成功' }}  # 仅当更新成功时触发
+步骤:
+      - 姓名: 检出代码
+uses: 操作/结帐@v4
+和……一起:
+裁判: 主要的#发布main分支的最新代码
+
+      - 姓名: 打包直播源文件
+跑: |
+#打包输出目录下的full.txt
+zip-j live-source-full-${{github.run_id}}.zip输出/full.txt
+# 生成版本号（按日期+运行ID）
+版本="v$(日期+%Y%m%d)-${{github.run_id}}"
+
+      - 姓名: 创建自动释放
+uses: softprops/action-gh-release@v2
+和……一起:
+tag_name: ${{环境版本}}  # 自动生成版本号
+release_name: "直播源更新_${{env.VERSION}}"
+身体: |
+📅  更新时间：${{github.event.head_commit.timestamp}}
+📦 包含文件：output/full.txt（最新完整直播源）
+文件: live-source-full-${{github.run_id}}.zip#上传打包文件
+env:
+GitHub_TOKEN: ${{secrets.GITHUB_TOKEN}}  #GitHub自动提供的权限令牌
