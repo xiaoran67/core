@@ -1,4 +1,4 @@
-## 📝 Recent Commits (Update Repo)
+## 📝 Recent Commits
 
  [![update](https://github.com/xiaoran67/update/actions/workflows/livesource.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/livesource.yml)
  [![update](https://github.com/xiaoran67/update/actions/workflows/Cross-repositoryMulti-PlatformSync.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/Cross-repositoryMulti-PlatformSync.yml)
