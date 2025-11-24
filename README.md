@@ -1,3 +1,12 @@
+## 📝 Recent Commits (Update Repo)
+
+### [![update](https://github.com/xiaoran67/update/actions/workflows/livesource.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/livesource.yml)
+### [![update](https://github.com/xiaoran67/update/actions/workflows/Cross-repositoryMulti-PlatformSync.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/Cross-repositoryMulti-PlatformSync.yml)
+### [![update](https://github.com/xiaoran67/update/actions/workflows/Cross-repositorySynchronization.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/Cross-repositorySynchronization.yml)
+### [![update](https://github.com/xiaoran67/update/actions/workflows/update_clash_Sub.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/update_clash_Sub.yml)
+### [![update](https://github.com/xiaoran67/update/actions/workflows/update_cctv_cstv.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/update_cctv_cstv.yml)
+### [![update](https://github.com/xiaoran67/update/actions/workflows/freetv.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/freetv.yml)
+### [![update](https://github.com/xiaoran67/update/actions/workflows/blacklist.yml/badge.svg)](https://github.com/xiaoran67/update/actions/workflows/freetv.yml)
 ### 📅 Streak Statistics
 <!-- Commit Streak Statistics -->
 <img alt="Commit Streak" align="left" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoran67&theme=dark&fire=FF4500&hide_border=true">
