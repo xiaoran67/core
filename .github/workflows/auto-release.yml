@@ -1,0 +1,54 @@
+name: 手动/自动发布直播源
+on:
+  # 1. 手动触发（在GitHub仓库的Actions页面点击“Run workflow”）
+  workflow_dispatch:
+    inputs:
+      release_note:
+        description: "自定义Release说明（可选）"
+        required: false
+        default: "最新完整直播源"
+  # 2. 自动触发（直播源更新工作流成功后）
+  workflow_run:
+    workflows: ["livesource.yml"]  # 替换为你的更新工作流名称
+    types:
+      - completed
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    if: |
+      (github.event_name == 'workflow_dispatch') || 
+      (github.event.workflow_run.conclusion == 'success')
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: 准备发布信息
+        run: |
+          # 生成版本号（日期+随机ID）
+          VERSION="v$(date +%Y%m%d)-$(openssl rand -hex 2)"
+          # 读取自定义说明（手动触发时）
+          RELEASE_NOTE="${{ github.event.inputs.release_note }}"
+          # 自动触发时使用默认说明
+          if [ -z "$RELEASE_NOTE" ]; then
+            RELEASE_NOTE="自动更新：$(date +%Y-%m-%d %H:%M:%S) 完整直播源"
+          fi
+          # 写入环境变量供后续步骤使用
+          echo "VERSION=$VERSION" >> $GITHUB_ENV
+          echo "RELEASE_NOTE=$RELEASE_NOTE" >> $GITHUB_ENV
+
+      - name: 打包output/full.txt
+        run: |
+          zip -j live-source-full-${{ env.VERSION }}.zip output/full.txt
+
+      - name: 创建Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.VERSION }}
+          release_name: "直播源_${{ env.VERSION }}"
+          body: ${{ env.RELEASE_NOTE }}
+          files: live-source-full-${{ env.VERSION }}.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
