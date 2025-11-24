@@ -5,7 +5,7 @@
  [![core](https://github.com/xiaoran67/core/actions/workflows/Cross-repositorySynchronization.yml/badge.svg)](https://github.com/xiaoran67/core/actions/workflows/Cross-repositorySynchronization.yml)
  [![core](https://github.com/xiaoran67/core/actions/workflows/blacklist.yml/badge.svg)](https://github.com/xiaoran67/core/actions/workflows/blacklist.yml)
  [![core](https://github.com/xiaoran67/core/actions/workflows/update_clash_Sub.yml/badge.svg)](https://github.com/xiaoran67/core/actions/workflows/update_clash_Sub.yml)
- [![core](https://github.com/xiaoran67/core/actions/workflows/core_cctv_cstv.yml/badge.svg)](https://github.com/xiaoran67/core/actions/workflows/core_cctv_cstv.yml)
+ [![core](https://github.com/xiaoran67/core/actions/workflows/update_cctv_cstv.yml/badge.svg)](https://github.com/xiaoran67/core/actions/workflows/core_cctv_cstv.yml)
  [![core](https://github.com/xiaoran67/core/actions/workflows/freetv.yml/badge.svg)](https://github.com/xiaoran67/core/actions/workflows/freetv.yml)
 
 ### 📅 Streak Statistics
