@@ -1,0 +1,72 @@
+name: Update Channel Aliases
+
+on:
+  schedule:
+    # 每天UTC时间18:00运行（北京时间凌晨2点）
+    - cron: '0 18 * * *'
+  workflow_dispatch:  # 允许手动触发
+  push:
+    paths:
+      - 'auto_alias_updater.py'
+      - 'subscription_sources.txt'
+
+jobs:
+  update-aliases:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+        
+    - name: Create subscription sources file (if not exists)
+      run: |
+        if [ ! -f "subscription_sources.txt" ]; then
+          echo "创建默认订阅源文件..."
+          cat > subscription_sources.txt << 'EOF'
+          # 这是订阅源列表，每行一个订阅地址
+          # This is a list of subscription sources, with one subscription address per line
+          
+          https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/Collection/LiveSource2025.txt
+          https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/Collection/LiveSource2026.txt
+          https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+          https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
+          https://freetv.fun/test_channels_original_new.txt
+          EOF
+        else
+          echo "使用现有订阅源文件"
+        fi
+        
+    - name: Run channel alias updater
+      run: python scripts/livesource/auto_alias_updater.py
+      env:
+        PYTHONUNBUFFERED: 1
+        
+    - name: Check for changes
+      id: changes
+      run: |
+        git add -A
+        if git diff --staged --quiet; then
+          echo "changes=false" >> $GITHUB_OUTPUT
+        else
+          echo "changes=true" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git commit -m "🤖 Auto-update channel aliases $(date +'%Y-%m-%d %H:%M')"
+        git push
