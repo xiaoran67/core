@@ -86,17 +86,21 @@
 
 
 ◆◆◆　https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
-2026-06-18 15:14:21,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
+2026-06-18 21:45:53,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
 淘,http://114.254.36.246:8888/rtp/239.3.1.249:8001
 淘,http://114.254.86.222:8888/rtp/239.3.1.249:8001
+淘,http://221.220.128.207:8012/rtp/239.3.1.249:8001
 睛彩广场舞,http://114.254.36.246:8888/rtp/239.3.1.128:8001
 睛彩广场舞,http://114.254.86.222:8888/rtp/239.3.1.128:8001
+睛彩广场舞,http://221.220.128.207:8012/rtp/239.3.1.128:8001
 先锋乒羽,http://106.59.2.85:55555/rtp/239.200.201.33:4120
 华数,http://114.254.36.246:8888/rtp/239.3.1.236:2000
 华数,http://114.254.86.222:8888/rtp/239.3.1.236:2000
-华数动作影院,http://220.176.218.173:9000/rtp/239.252.220.85:5140
+华数,http://221.220.128.207:8012/rtp/239.3.1.236:2000
 华数动作影院,http://114.254.36.246:8888/rtp/239.3.1.92:4120
+华数动作影院,http://220.176.218.173:9000/rtp/239.252.220.85:5140
 华数动作影院,http://114.254.86.222:8888/rtp/239.3.1.92:4120
+华数动作影院,http://221.220.128.207:8012/rtp/239.3.1.92:4120
 华数碟战剧场,http://220.176.218.173:9000/rtp/239.252.220.145:5140
 
 
@@ -202,7 +206,7 @@ fx,https://t.freetv.fun/live/fx.m3u8
 []globo news,https://t.freetv.fun/live/globo-news.m3u8
 []global news,https://t.freetv.fun/live/global-news-1.m3u8
 sportsnet east,https://t.freetv.fun/live/sportsnet-east.ts
-[]tsn1,https://t.freetv.fun/live/tsn1.ts
+tsn1,https://t.freetv.fun/live/tsn1.ts
 []tv5 kannada,https://t.freetv.fun/live/tv5-kannada.m3u8
 []tva,https://t.freetv.fun/live/tva.m3u8
 []tva,https://t.freetv.fun/live/tva-1-1.m3u8
@@ -528,7 +532,6 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-9.m3u8
 []动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-2.m3u8
 []北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-20.m3u8
 []北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi.m3u8
-[]北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-10.m3u8
 []北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-29.m3u8
 []十堰经济,https://t.freetv.fun/live/shi-yan-jing-ji.m3u8
 []南京教科,https://t.freetv.fun/live/nan-jing-jiao-ke.m3u8
@@ -745,8 +748,6 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-9.m3u8
 东方影视,https://t.freetv.fun/live/dong-fang-ying-shi-2.m3u8
 []东方影视,https://t.freetv.fun/live/dong-fang-ying-shi-3.m3u8
 []东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-5.m3u8
-[]东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-6.m3u8
-[]东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-10.m3u8
 []东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-11.m3u8
 []东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-13.m3u8
 []东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-14.m3u8
@@ -841,7 +842,6 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-9.m3u8
 []河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-11.m3u8
 []河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-5.m3u8
 []河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-6.m3u8
-[]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-12.m3u8
 []河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-13.m3u8
 []河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-16.m3u8
 []河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-21.m3u8
@@ -880,6 +880,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-9.m3u8
 []海绵宝宝,https://t.freetv.fun/live/hai-mian-bao-bao.m3u8
 []深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-7.m3u8
 []深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-16.m3u8
+[]深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-15.m3u8
 []湖北生活,https://t.freetv.fun/live/hu-bei-sheng-huo.m3u8
 []湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-2.m3u8
 []湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-3.m3u8
@@ -957,7 +958,6 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-9.m3u8
 []贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-1.php
 []贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi.m3u8
 []贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-7.m3u8
-[]贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-9.m3u8
 []贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-10.m3u8
 []贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-11.m3u8
 []贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-13.m3u8
@@ -979,7 +979,6 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-9.m3u8
 []重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi.m3u8
 []重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-3.m3u8
 []重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-5.m3u8
-[]重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-7.m3u8
 []重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-9.m3u8
 []重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-14.m3u8
 []重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-16.php
@@ -1119,7 +1118,7 @@ m6 sd,https://t.freetv.fun/live/m6-sd.m3u8
 []music black,https://t.freetv.fun/live/music-black.m3u8
 []music hits,https://t.freetv.fun/live/music-hits.m3u8
 []mcm top,https://t.freetv.fun/live/mcm-top-1.m3u8
-[]muzangala tv,https://t.freetv.fun/live/muzangala-tv.m3u8
+muzangala tv,https://t.freetv.fun/live/muzangala-tv.m3u8
 magna tv,https://t.freetv.fun/live/magna-tv.m3u8
 big planet,https://t.freetv.fun/live/big-planet.m3u8
 []rmcdecouverte,https://t.freetv.fun/live/rmcdecouverte.m3u8
@@ -1138,10 +1137,11 @@ w9,https://t.freetv.fun/live/w9-1.m3u8
 []lale,https://t.freetv.fun/live/lale-1.m3u8
 formula,https://t.freetv.fun/live/formula.m3u8
 []fortuna tv,https://t.freetv.fun/live/fortuna-tv.m3u8
+fortuna tv,https://t.freetv.fun/live/fortuna-tv-1.m3u8
 []arte,https://t.freetv.fun/live/arte.m3u8
 arte,https://t.freetv.fun/live/arte-1.m3u8
 arte,https://t.freetv.fun/live/arte-2.m3u8
-biz tv,https://t.freetv.fun/live/biz-tv.m3u8
+[]biz tv,https://t.freetv.fun/live/biz-tv.m3u8
 []bibel tv,https://t.freetv.fun/live/bibel-tv.m3u8
 []central tv,https://t.freetv.fun/live/central-tv.m3u8
 []3abn english,https://t.freetv.fun/live/3abn-english-1.m3u8
@@ -1224,8 +1224,6 @@ tvb星河,https://t.freetv.fun/live/tvbxing-he-1.m3u8
 翡翠,https://t.freetv.fun/live/fei-cui.php
 []凤凰卫视中文,https://t.freetv.fun/live/feng-huang-wei-shi-zhong-wen-1.m3u8
 []凤凰卫视资讯,https://t.freetv.fun/live/feng-huang-wei-shi-zi-xun-2.m3u8
-[]凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang-1.php
-[]凤凰香港,https://t.freetv.fun/live/feng-huang-xiang-gang-3.php
 shalom tv,https://t.freetv.fun/live/shalom-tv.m3u8
 []shalom tv,https://t.freetv.fun/live/shalom-tv-1.m3u8
 alpo tv,https://t.freetv.fun/live/alpo-tv.m3u8
@@ -1332,12 +1330,13 @@ noor tv,https://t.freetv.fun/live/noor-tv-1.m3u8
 []anand tv,https://t.freetv.fun/live/anand-tv.m3u8
 []lana tv,https://t.freetv.fun/live/lana-tv.m3u8
 sivan tv,https://t.freetv.fun/live/sivan-tv.m3u8
-sangaji tv,https://t.freetv.fun/live/sangaji-tv.m3u8
+[]sangaji tv,https://t.freetv.fun/live/sangaji-tv.m3u8
 anand tv,https://t.freetv.fun/live/anand-tv-1.m3u8
 arirang radio,https://t.freetv.fun/live/arirang-radio.m3u8
-arirang,https://t.freetv.fun/live/arirang.m3u8
+[]arirang,https://t.freetv.fun/live/arirang.m3u8
 []arirang tv,https://t.freetv.fun/live/arirang-tv.m3u8
 []arirang,https://t.freetv.fun/live/arirang-1.m3u8
+[]arirang tv un,https://t.freetv.fun/live/arirang-tv-un.m3u8
 arirang radio,https://t.freetv.fun/live/arirang-radio-1.m3u8
 []arirang tv,https://t.freetv.fun/live/arirang-tv-1.m3u8
 arirang tv,https://t.freetv.fun/live/arirang-tv-2.m3u8
@@ -1352,7 +1351,7 @@ ebse,https://t.freetv.fun/live/ebse.m3u8
 ebs1,https://t.freetv.fun/live/ebs1.m3u8
 []ebs1,https://t.freetv.fun/live/ebs1-1.m3u8
 []ebs2,https://t.freetv.fun/live/ebs2.m3u8
-the fishing and hunting,https://t.freetv.fun/live/the-fishing-and-hunting.m3u8
+[]the fishing and hunting,https://t.freetv.fun/live/the-fishing-and-hunting.m3u8
 []good idea tv,https://t.freetv.fun/live/good-idea-tv.m3u8
 []feel good tv,https://t.freetv.fun/live/feel-good-tv.m3u8
 goodtv,https://t.freetv.fun/live/goodtv.m3u8
@@ -1455,6 +1454,7 @@ Astro AEC *tv,https://t.freetv.fun/live/astro-aec-tv.ts
 []Astro QJ *tv,https://t.freetv.fun/live/astro-qj-tv.ts
 []astro showcase *tv,https://t.freetv.fun/live/astro-showcase-tv.ts
 Astro Sports Plus *tv,https://t.freetv.fun/live/astro-sports-plus-tv.ts
+tvs,https://t.freetv.fun/live/tvs.m3u8
 []tvs,https://t.freetv.fun/live/tvs-1.m3u8
 bergamo tv,https://t.freetv.fun/live/bergamo-tv.m3u8
 bergamo tv,https://t.freetv.fun/live/bergamo-tv-1.m3u8
@@ -1559,7 +1559,7 @@ iipc tv,https://t.freetv.fun/live/iipc-tv-1.m3u8
 eko tv,https://t.freetv.fun/live/eko-tv-1.m3u8
 []nexo tv,https://t.freetv.fun/live/nexo-tv.m3u8
 []neo tv,https://t.freetv.fun/live/neo-tv.m3u8
-[]tvs sports,https://t.freetv.fun/live/tvs-sports.m3u8
+tvs sports,https://t.freetv.fun/live/tvs-sports.m3u8
 []tvs sports (p) [not 24/7],https://t.freetv.fun/live/tvs-sports-720p-not-24-7.m3u8
 tvp world,https://t.freetv.fun/live/tvp-world.m3u8
 prva world,https://t.freetv.fun/live/prva-world.m3u8
@@ -1627,7 +1627,7 @@ eurosport 2 25fps,https://t.freetv.fun/live/eurosport-2-25fps.m3u8
 eurosport 2 25fps,https://t.freetv.fun/live/eurosport-2-25fps-1.m3u8
 eurosport 2 uhd 25fps,https://t.freetv.fun/live/eurosport-2-uhd-25fps.m3u8
 eurosport 2 uhd 25fps,https://t.freetv.fun/live/eurosport-2-uhd-25fps-1.m3u8
-oasis tv,https://t.freetv.fun/live/oasis-tv.m3u8
+[]oasis tv,https://t.freetv.fun/live/oasis-tv.m3u8
 []kanal d,https://t.freetv.fun/live/kanal-d.m3u8
 []kanal v antalya,https://t.freetv.fun/live/kanal-v-antalya.m3u8
 kanal 23 elaziğ,https://t.freetv.fun/live/kanal-23-elazig.m3u8
@@ -1643,7 +1643,6 @@ kanal 15,https://t.freetv.fun/live/kanal-15.m3u8
 []minimax,https://t.freetv.fun/live/minimax.m3u8
 minimax,https://t.freetv.fun/live/minimax-1.m3u8
 []national geographic,https://t.freetv.fun/live/national-geographic.m3u8
-national geographic,https://t.freetv.fun/live/national-geographic-1.m3u8
 []national geographic,https://t.freetv.fun/live/national-geographic-2.m3u8
 []nationalgeographic,https://t.freetv.fun/live/nationalgeographic.m3u8
 []latina tv,https://t.freetv.fun/live/latina-tv.m3u8
@@ -1680,7 +1679,6 @@ mir 24,https://t.freetv.fun/live/mir-24-1.m3u8
 []nicktoons,https://t.freetv.fun/live/nicktoons.m3u8
 nour tv,https://t.freetv.fun/live/nour-tv.m3u8
 nour tv,https://t.freetv.fun/live/nour-tv-1.m3u8
-nrb tv,https://t.freetv.fun/live/nrb-tv.m3u8
 ren tv,https://t.freetv.fun/live/ren-tv.m3u8
 rtd,https://t.freetv.fun/live/rtd.m3u8
 []irt,https://t.freetv.fun/live/irt.m3u8
@@ -1801,7 +1799,6 @@ buzzr,https://t.freetv.fun/live/buzzr.m3u8
 []cgtn,https://t.freetv.fun/live/cgtn-1-1.m3u8
 []cgtn俄语,https://t.freetv.fun/live/cgtne-yu-1.m3u8
 []cgtn,https://t.freetv.fun/live/cgtn-2.m3u8
-[]cgtn,https://t.freetv.fun/live/cgtn-3.m3u8
 []cgtn法语,https://t.freetv.fun/live/cgtnfa-yu-5.m3u8
 cgtn新闻,https://t.freetv.fun/live/cgtnxin-wen.m3u8
 []cgtn新闻,https://t.freetv.fun/live/cgtnxin-wen-1.m3u8
@@ -1829,9 +1826,9 @@ rouge tv,https://t.freetv.fun/live/rouge-tv.m3u8
 bbc earth,https://t.freetv.fun/live/bbc-earth.m3u8
 test channel 3,https://t.freetv.fun/live/test-channel-3.m3u8
 []light channel,https://t.freetv.fun/live/light-channel.m3u8
-chile channel,https://t.freetv.fun/live/chile-channel.m3u8
+[]chile channel,https://t.freetv.fun/live/chile-channel.m3u8
 channel y,https://t.freetv.fun/live/channel-y.m3u8
-[]mo channel,https://t.freetv.fun/live/mo-channel.m3u8
+mo channel,https://t.freetv.fun/live/mo-channel.m3u8
 []channel 11,https://t.freetv.fun/live/channel-11.m3u8
 []xplore channel,https://t.freetv.fun/live/xplore-channel.m3u8
 gs channel,https://t.freetv.fun/live/gs-channel.m3u8
@@ -1910,8 +1907,6 @@ cctv-2hd,https://t.freetv.fun/live/cctv-2hd-4.m3u8
 []lao-thai tv,https://t.freetv.fun/live/lao-thai-tv.m3u8
 []3tv,https://t.freetv.fun/live/3tv.m3u8
 thai pbs,https://t.freetv.fun/live/thai-pbs-1.m3u8
-thai pbs,https://t.freetv.fun/live/thai-pbs-2.m3u8
-[]thai pbs 3,https://t.freetv.fun/live/thai-pbs-3.m3u8
 []lotte home shopping,https://t.freetv.fun/live/lotte-home-shopping.m3u8
 []brtv,https://t.freetv.fun/live/brtv.m3u8
 []brtv,https://t.freetv.fun/live/brtv-1.m3u8
@@ -2010,6 +2005,7 @@ lfc,https://t.freetv.fun/live/lfc.m3u8
 mutv,https://t.freetv.fun/live/mutv.m3u8
 []nickelodeon,https://t.freetv.fun/live/nickelodeon.m3u8
 []nickelodeon,https://t.freetv.fun/live/nickelodeon-2.m3u8
+[]nickelodeon,https://t.freetv.fun/live/nickelodeon-4.m3u8
 red bull tv,https://t.freetv.fun/live/red-bull-tv-3.m3u8
 red bull tv,https://t.freetv.fun/live/red-bull-tv.m3u8
 reuters,https://t.freetv.fun/live/reuters.m3u8
@@ -2087,11 +2083,11 @@ beyblade en español,https://t.freetv.fun/live/beyblade-en-espanol.m3u8
 []cartoonito,https://t.freetv.fun/live/cartoonito-1.m3u8
 cetelmón tv,https://t.freetv.fun/live/cetelmon-tv.m3u8
 christian youth channel (cyc) (p),https://t.freetv.fun/live/christian-youth-channel-cyc-1080p.m3u8
-tvs classic movies,https://t.freetv.fun/live/tvs-classic-movies.m3u8
+[]tvs classic movies,https://t.freetv.fun/live/tvs-classic-movies.m3u8
 []tvs classic movies (288p),https://t.freetv.fun/live/tvs-classic-movies-288p.m3u8
 coco tv,https://t.freetv.fun/live/coco-tv.m3u8
 []ortb tv,https://t.freetv.fun/live/ortb-tv.m3u8
-crime plus investigation,https://t.freetv.fun/live/crime-plus-investigation.m3u8
+[]crime plus investigation,https://t.freetv.fun/live/crime-plus-investigation.m3u8
 []ning tv,https://t.freetv.fun/live/ning-tv.m3u8
 daystar tv,https://t.freetv.fun/live/daystar-tv.m3u8
 []discovery family channel,https://t.freetv.fun/live/discovery-family-channel.ts
@@ -3223,18 +3219,18 @@ BOO,p3p://focus169.org:26571/64137e860008ec16a58031233a436c8e
 
 
 ◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=d77834fc039d34a375cd92c7418749d4&wsTime=1781798452
-都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=f477b130a7fbd1beb32cee5a3639d855&wsTime=1781798452
-民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=fe46203d86c45d0fa9842c1ec613b8ef&wsTime=1781798452
-法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=9a41851b4732add439bf7b3102f3b6c2&wsTime=1781798452
-公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=50567915724ddb1303e63ad934b7d9c4&wsTime=1781798452
-河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=2c7a412ce617bd258c4427af88b0a080&wsTime=1781798452
-电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=2cb642ee8e6d7a5900c1ecd7d18db099&wsTime=1781798452
-武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=c2e67767b1df02541a6724c2a165f31f&wsTime=1781798452
-睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=4c582a6d5a3ad6ac0e1918303a847483&wsTime=1781798452
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=81f7ab481048bac9b5fb953bb36bdc79&wsTime=1781798452
-国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=36d3ce61fdf926c588b1f86cffed353b&wsTime=1781798452
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=b1425c090eebcc89cc7458fffe3a8d93&wsTime=1781798452
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=bbc1529d71f0f2e86a9535d171ae713f&wsTime=1781805663
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=66b2a405fb2729b165c78fa9e5a60cfb&wsTime=1781805663
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=5d21c4c6046f6a83940f7f7c88619535&wsTime=1781805663
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=28e6f297d14efd3a56c609babba9083d&wsTime=1781805663
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=641ab81826b72ebf2bdf8b97f9edbe32&wsTime=1781805663
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=400821d19ac1effde3d0bac18a6e53a6&wsTime=1781805663
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=077f8c761b07d73c35c07c7b466e5f4e&wsTime=1781805663
+武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=d3f70a7fbbc5a90c9ccf53d6f0d85f75&wsTime=1781805663
+睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=737f97752fa30fdd0fbd37cadb51b7f6&wsTime=1781805663
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=b5572d3395526e6813d472c7783f1841&wsTime=1781805663
+国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=e5072b111bc33e73030dacae8538c5d1&wsTime=1781805663
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=272c2545ef361a97016ff5d58e7cdb23&wsTime=1781805663
 凤凰卫视电影台,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 福建海峡卫视,http://116.52.173.106:1234/849119120
 福建海峡卫视,http://14.153.176.157:1234/849119120
@@ -3271,31 +3267,31 @@ BOO,p3p://focus169.org:26571/64137e860008ec16a58031233a436c8e
 熊猫9,http://mgsp-cty2.live.miguvideo.com:8088/envivo_x/2018/SD/xiongmao09/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192899&pid=2028597139&timestamp=20260618200233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169226&ParentNodeID=-99&assertID=2200192899&client_ip=171.8.79.254&SecurityKey=20260618200233&promotionId=&mvid=2200192899&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7db50687f6b0024be2fce1c85d98688c&sv=10004&ct=android
 熊猫10,http://mgsp-hs2.live.miguvideo.com:8088/envivo_x/2018/SD/xiongmao10/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192937&pid=2028597139&timestamp=20260618200234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169285&ParentNodeID=-99&assertID=2200192937&client_ip=171.8.79.254&SecurityKey=20260618200234&promotionId=&mvid=2200192937&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d160bb48635a19cd23579121213f8650&sv=10004&ct=android
 新动力量创一流,http://hlszymgsplive.miguvideo.com:8080/migu/virtuallive2/5900002409/51/20210706/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5910019523&pid=2028597139&timestamp=20260618200234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713589837&ParentNodeID=-99&assertID=5910019523&client_ip=171.8.79.254&SecurityKey=20260618200234&promotionId=&mvid=5900002419&mcid=500020&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b0cb97d3d326d662b84d001c1fa14fa5&sv=10004&ct=android
-BWF 丫邦组合晋级！董天尧挺进次轮 【回放】蒋振邦/魏雅欣2-0林明宏/拉潘（朱胤丞） 17:25,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/608/038/5106608038/media/5106608038_5337865010_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701780983&pid=2028597139&timestamp=20260618180220&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965453264&ParentNodeID=-99&assertID=5701780983&client_ip=171.8.79.254&SecurityKey=20260618180220&promotionId=&mvid=5106608038&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7558ba7634dcad6acd950d5059b96521&sv=10004&ct=android
-BWF 丫邦组合晋级！董天尧挺进次轮 【回放】王漪朵/王子萌0-2陈樊淑湉/刘嘉悦（鸿昆） 17:25,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/608/030/5106608030/media/5106608030_5337851956_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701781147&pid=2028597139&timestamp=20260618180221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965447994&ParentNodeID=-99&assertID=5701781147&client_ip=171.8.79.254&SecurityKey=20260618180221&promotionId=&mvid=5106608030&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c3944184baba5bbbe528da422e264894&sv=10004&ct=android
-BWF 丫邦组合晋级！董天尧挺进次轮 【回放】吉丁努蓬/韦德勒1-2胡珂源/林祥毅（鸿昆） 17:25,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/608/031/5106608031/media/5106608031_5337855479_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701781165&pid=2028597139&timestamp=20260618180221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965449480&ParentNodeID=-99&assertID=5701781165&client_ip=171.8.79.254&SecurityKey=20260618180221&promotionId=&mvid=5106608031&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ef81e6e6d2b7b396f72f94d5c586ea16&sv=10004&ct=android
-BWF 丫邦组合晋级！董天尧挺进次轮 【回放】李泓毅/黄可欣2-0卢震/洪妡恩（朱胤丞） 17:25,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/608/037/5106608037/media/5106608037_5337859702_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701780981&pid=2028597139&timestamp=20260618180221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965451261&ParentNodeID=-99&assertID=5701780981&client_ip=171.8.79.254&SecurityKey=20260618180221&promotionId=&mvid=5106608037&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4d3efb6a5eb4ea887fca6a626bcac3e6&sv=10004&ct=android
-BWF 丫邦组合晋级！董天尧挺进次轮 【回放】莫汉库马尔/里杜瓦尔希尼0-2朱一珺/李茜（孙宁智） 17:25,http://mgsp.vod.miguvideo.com:8088/depository_eos_wxlz04/asset/zhengshi/5106/609/241/5106609241/media/5106609241_5337870567_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701781499&pid=2028597139&timestamp=20260618180221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965455189&ParentNodeID=-99&assertID=5701781499&client_ip=171.8.79.254&SecurityKey=20260618180221&promotionId=&mvid=5106609241&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fae6245c01ce99699bb0371eb7a3174c&sv=10004&ct=android
-BWF 丫邦组合晋级！董天尧挺进次轮 【回放】哈泰蒂普/纳帕卡孔1-2廖立曦/沈诗瑶（朱胤丞） 17:25,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/608/039/5106608039/media/5106608039_5337871909_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701780984&pid=2028597139&timestamp=20260618180221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965455537&ParentNodeID=-99&assertID=5701780984&client_ip=171.8.79.254&SecurityKey=20260618180221&promotionId=&mvid=5106608039&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ac4a5b5438bceee589aa33c999795ad1&sv=10004&ct=android
-BWF 丫邦组合晋级！董天尧挺进次轮 【回放】董天尧2-0阿尔卡拉（杨妮娜） 17:25,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/608/040/5106608040/media/5106608040_5337879240_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701780985&pid=2028597139&timestamp=20260618180222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965457036&ParentNodeID=-99&assertID=5701780985&client_ip=171.8.79.254&SecurityKey=20260618180222&promotionId=&mvid=5106608040&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=94aa368e2ab5346676874b363f522575&sv=10004&ct=android
-BWF 丫邦组合晋级！董天尧挺进次轮 【回放】韩千禧2-0勒勒（杨妮娜） 17:25,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/610/215/5106610215/media/5106610215_5337885541_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701782017&pid=2028597139&timestamp=20260618180222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965459212&ParentNodeID=-99&assertID=5701782017&client_ip=171.8.79.254&SecurityKey=20260618180222&promotionId=&mvid=5106610215&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a570581fa78143a2ab04ea4de920e33f&sv=10004&ct=android
-BWF 丫邦组合晋级！董天尧挺进次轮 【回放】胡哲安2-1全奕镇（鸿昆） 17:25,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/610/216/5106610216/media/5106610216_5337890259_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701782087&pid=2028597139&timestamp=20260618180222&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965461384&ParentNodeID=-99&assertID=5701782087&client_ip=171.8.79.254&SecurityKey=20260618180222&promotionId=&mvid=5106610216&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9c2a1ec58b11d24d0de922ecbbb6f6d3&sv=10004&ct=android
+BWF 丫邦组合晋级！董天尧挺进次轮 【回放】蒋振邦/魏雅欣2-0林明宏/拉潘（朱胤丞） 17:25,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/608/038/5106608038/media/5106608038_5337865010_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701780983&pid=2028597139&timestamp=20260618220226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965453264&ParentNodeID=-99&assertID=5701780983&client_ip=171.8.79.254&SecurityKey=20260618220226&promotionId=&mvid=5106608038&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=bd4531892d6d1ea0419a82a1b6f7aa95&sv=10004&ct=android
+BWF 丫邦组合晋级！董天尧挺进次轮 【回放】王漪朵/王子萌0-2陈樊淑湉/刘嘉悦（鸿昆） 17:25,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/608/030/5106608030/media/5106608030_5337851956_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701781147&pid=2028597139&timestamp=20260618220226&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965447994&ParentNodeID=-99&assertID=5701781147&client_ip=171.8.79.254&SecurityKey=20260618220226&promotionId=&mvid=5106608030&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fc2ea9f8a15bd305b1cc76093afff67b&sv=10004&ct=android
+BWF 丫邦组合晋级！董天尧挺进次轮 【回放】吉丁努蓬/韦德勒1-2胡珂源/林祥毅（鸿昆） 17:25,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/608/031/5106608031/media/5106608031_5337855479_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701781165&pid=2028597139&timestamp=20260618220227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965449480&ParentNodeID=-99&assertID=5701781165&client_ip=171.8.79.254&SecurityKey=20260618220227&promotionId=&mvid=5106608031&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=42ff8da6b6a0a0d81fe040ca3e5a83df&sv=10004&ct=android
+BWF 丫邦组合晋级！董天尧挺进次轮 【回放】李泓毅/黄可欣2-0卢震/洪妡恩（朱胤丞） 17:25,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/608/037/5106608037/media/5106608037_5337859702_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701780981&pid=2028597139&timestamp=20260618220227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965451261&ParentNodeID=-99&assertID=5701780981&client_ip=171.8.79.254&SecurityKey=20260618220227&promotionId=&mvid=5106608037&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7eb46d71abc5517234b8d5e568ea4d0d&sv=10004&ct=android
+BWF 丫邦组合晋级！董天尧挺进次轮 【回放】莫汉库马尔/里杜瓦尔希尼0-2朱一珺/李茜（孙宁智） 17:25,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/609/241/5106609241/media/5106609241_5337870567_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701781499&pid=2028597139&timestamp=20260618220227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965455189&ParentNodeID=-99&assertID=5701781499&client_ip=171.8.79.254&SecurityKey=20260618220227&promotionId=&mvid=5106609241&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c80c3e4c4a063b9a3b45945544969f1e&sv=10004&ct=android
+BWF 丫邦组合晋级！董天尧挺进次轮 【回放】哈泰蒂普/纳帕卡孔1-2廖立曦/沈诗瑶（朱胤丞） 17:25,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/608/039/5106608039/media/5106608039_5337871909_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701780984&pid=2028597139&timestamp=20260618220227&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965455537&ParentNodeID=-99&assertID=5701780984&client_ip=171.8.79.254&SecurityKey=20260618220227&promotionId=&mvid=5106608039&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0ba1944e5211967622f991a95cf56712&sv=10004&ct=android
+BWF 丫邦组合晋级！董天尧挺进次轮 【回放】董天尧2-0阿尔卡拉（杨妮娜） 17:25,http://hlszymgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/608/040/5106608040/media/5106608040_5337879240_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701780985&pid=2028597139&timestamp=20260618220228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965457036&ParentNodeID=-99&assertID=5701780985&client_ip=171.8.79.254&SecurityKey=20260618220228&promotionId=&mvid=5106608040&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a962d140e37949d92e562611aa8268bc&sv=10004&ct=android
+BWF 丫邦组合晋级！董天尧挺进次轮 【回放】韩千禧2-0勒勒（杨妮娜） 17:25,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/610/215/5106610215/media/5106610215_5337885541_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701782017&pid=2028597139&timestamp=20260618220228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965459212&ParentNodeID=-99&assertID=5701782017&client_ip=171.8.79.254&SecurityKey=20260618220228&promotionId=&mvid=5106610215&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0095f83376e588a37bf8b52d623f6c10&sv=10004&ct=android
+BWF 丫邦组合晋级！董天尧挺进次轮 【回放】胡哲安2-1全奕镇（鸿昆） 17:25,http://hlsztemgspvod.miguvideo.com:8080/depository_eos_wxlz04/asset/zhengshi/5106/610/216/5106610216/media/5106610216_5337890259_56.mp4.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5701782087&pid=2028597139&timestamp=20260618220228&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965461384&ParentNodeID=-99&assertID=5701782087&client_ip=171.8.79.254&SecurityKey=20260618220228&promotionId=&mvid=5106610216&mcid=1003&mpid=120000580129&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8027bcfd860859ac2f1623583ae5383b&sv=10004&ct=android
 BWF 董天尧、胡哲安晋级 韩千禧逆转取胜 1号场地 10:00,http://flvalipull2mgsplive.miguvideo.com:80/mglive/mgss250_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510496609&pid=2028597139&timestamp=20260618200244&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965382048&ParentNodeID=-99&assertID=7510496609&client_ip=171.8.79.254&SecurityKey=20260618200244&promotionId=&mvid=7510247970&mcid=500020&mpid=120000580130&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=006314a07bed8add28d9412dfe318f4b&sv=10004&ct=android
 BWF 董天尧、胡哲安晋级 韩千禧逆转取胜 2号场地 10:00,http://flvalipull2mgsplive.miguvideo.com:80/mglive/mgss251_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510496611&pid=2028597139&timestamp=20260618200244&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965382099&ParentNodeID=-99&assertID=7510496611&client_ip=171.8.79.254&SecurityKey=20260618200244&promotionId=&mvid=7510247971&mcid=500020&mpid=120000580130&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ccdf27e75fc9ee1cc1ba8057e6bc3625&sv=10004&ct=android
 BWF 董天尧、胡哲安晋级 韩千禧逆转取胜 3号场地 10:10,http://flvalipull2mgsplive.miguvideo.com:80/mglive/mgss252_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510496613&pid=2028597139&timestamp=20260618200244&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965382178&ParentNodeID=-99&assertID=7510496613&client_ip=171.8.79.254&SecurityKey=20260618200244&promotionId=&mvid=7510247972&mcid=500020&mpid=120000580130&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c4b7543f525a9600457da61f9c7a0c3e&sv=10004&ct=android
-全国青年篮球联赛 北控青年vs青岛国信海天 清流播出 17:25,http://flvyxpull2mgsplive.miguvideo.com:80/mglive/mgss131_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510498495&pid=2028597139&timestamp=20260618180231&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965475421&ParentNodeID=-99&assertID=7510498495&client_ip=171.8.79.254&SecurityKey=20260618180231&promotionId=&mvid=7510248913&mcid=500020&mpid=120000580452&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4fd040c81544a34eddecc7af59d2a267&sv=10004&ct=android
-全国青年篮球联赛 新疆广汇vs北京首钢 清流播出 17:25,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss132_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510498497&pid=2028597139&timestamp=20260618180231&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965475440&ParentNodeID=-99&assertID=7510498497&client_ip=171.8.79.254&SecurityKey=20260618180231&promotionId=&mvid=7510248914&mcid=500020&mpid=120000580453&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1694f5d5dc52f99eb6eb34381f3677e9&sv=10004&ct=android
-全国青年篮球联赛 四川锦城vs苏科雄狮 清流播出 19:25,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss133_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510498499&pid=2028597139&timestamp=20260618180232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965475458&ParentNodeID=-99&assertID=7510498499&client_ip=171.8.79.254&SecurityKey=20260618180232&promotionId=&mvid=7510248915&mcid=500020&mpid=120000580454&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=dc7bc462b480a67ed5dff4b5b2b85a02&sv=10004&ct=android
-全国青年篮球联赛 天津荣钢vs山东山高 清流播出 19:25,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss134_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510498501&pid=2028597139&timestamp=20260618180232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965475485&ParentNodeID=-99&assertID=7510498501&client_ip=171.8.79.254&SecurityKey=20260618180232&promotionId=&mvid=7510248916&mcid=500020&mpid=120000580455&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5f7229fc7f8f16e1ec22ebb6fd2f1a0e&sv=10004&ct=android
-贵州村超 忠诚村足球队VS车江二村足球队 2026赛季贵州村超联赛第七轮: 忠诚村VS车江二村 18:30,http://flvzypull2mgsplive.miguvideo.com:80/mglive/mgss256_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510496979&pid=2028597139&timestamp=20260618180239&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965428852&ParentNodeID=-99&assertID=7510496979&client_ip=171.8.79.254&SecurityKey=20260618180239&promotionId=&mvid=7510248155&mcid=500020&mpid=120000580233&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=11af6054869a36ebe4e979b6cbac7df9&sv=10004&ct=android
-粤超 清远VS揭阳 2026赛季广东省城市足球超级联赛第七轮: 清远VS揭阳 19:30,http://flvhspull2mgsplive.miguvideo.com:80/mglive/mgss141_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471133&pid=2028597139&timestamp=20260618180240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964216314&ParentNodeID=-99&assertID=7510471133&client_ip=171.8.79.254&SecurityKey=20260618180240&promotionId=&mvid=7510235232&mcid=500020&mpid=120000574605&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5dd53f155a8b03a3f77f76b0d14c7faa&sv=10004&ct=android
-粤超 河源VS惠州 2026赛季广东省城市足球超级联赛第七轮: 河源VS惠州 19:30,http://flvhspull2mgsplive.miguvideo.com:80/mglive/mgss143_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471147&pid=2028597139&timestamp=20260618180240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964216352&ParentNodeID=-99&assertID=7510471147&client_ip=171.8.79.254&SecurityKey=20260618180240&promotionId=&mvid=7510235239&mcid=500020&mpid=120000574651&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=cae59a479e3cf276ad1d6a1f0ca8cfa7&sv=10004&ct=android
-粤超 中山VS江门 2026赛季广东省城市足球超级联赛第七轮: 中山VS江门 19:30,http://flvhspull2mgsplive.miguvideo.com:80/mglive/mgss145_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471159&pid=2028597139&timestamp=20260618180240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964216433&ParentNodeID=-99&assertID=7510471159&client_ip=171.8.79.254&SecurityKey=20260618180240&promotionId=&mvid=7510235245&mcid=500020&mpid=120000574655&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8b165667f100f26e90571d3dd2a85f13&sv=10004&ct=android
-粤超 阳江VS茂名 2026赛季广东省城市足球超级联赛第七轮: 阳江VS茂名 19:30,http://flvhspull2mgsplive.miguvideo.com:80/mglive/mgss146_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471165&pid=2028597139&timestamp=20260618180240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964216451&ParentNodeID=-99&assertID=7510471165&client_ip=171.8.79.254&SecurityKey=20260618180240&promotionId=&mvid=7510235248&mcid=500020&mpid=120000574657&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a95a8e0582ca44d7b36e75dcd0f83712&sv=10004&ct=android
-齐鲁超赛 滨州创新队VS济南队 2026赛季山东省齐鲁足球超级联赛第六轮: 滨州创新队VS济南队 19:30,http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss241_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510496577&pid=2028597139&timestamp=20260618180241&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965381470&ParentNodeID=-99&assertID=7510496577&client_ip=171.8.79.254&SecurityKey=20260618180241&promotionId=&mvid=7510247954&mcid=500020&mpid=120000580124&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1f6c28fe0707bb243b2576103604370d&sv=10004&ct=android
-齐鲁超赛 潍坊队VS德州古贝春 2026赛季山东省齐鲁足球超级联赛第六轮: 潍坊队VS德州古贝春 19:30,http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss242_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510496579&pid=2028597139&timestamp=20260618180241&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965381478&ParentNodeID=-99&assertID=7510496579&client_ip=171.8.79.254&SecurityKey=20260618180241&promotionId=&mvid=7510247955&mcid=500020&mpid=120000580125&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3afbfad69f0a93b7edb9732d3fc6b2d0&sv=10004&ct=android
-粤超 东莞VS梅州 2026赛季广东省城市足球超级联赛第七轮: 东莞VS梅州 20:00,http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss142_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471139&pid=2028597139&timestamp=20260618180241&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964216332&ParentNodeID=-99&assertID=7510471139&client_ip=171.8.79.254&SecurityKey=20260618180241&promotionId=&mvid=7510235235&mcid=500020&mpid=120000574648&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8af9df3a776283acc0f24b1a38b216b0&sv=10004&ct=android
-贵州村超 车江一村足球队VS水尾村足球队 2026赛季贵州村超联赛第七轮: 车江一村VS水尾村 20:30,http://flvzypull2mgsplive.miguvideo.com:80/mglive/mgss257_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510496981&pid=2028597139&timestamp=20260618180242&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965428868&ParentNodeID=-99&assertID=7510496981&client_ip=171.8.79.254&SecurityKey=20260618180242&promotionId=&mvid=7510248156&mcid=500020&mpid=120000580234&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f614d49e863196270b754975a4606a36&sv=10004&ct=android
+全国青年篮球联赛 北控青年vs青岛国信海天 清流播出 17:25,http://flvhspull2mgsplive.miguvideo.com:80/mglive/mgss131_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510498495&pid=2028597139&timestamp=20260618220237&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965475421&ParentNodeID=-99&playbackbegin=20260618172500&playbackend=20260618212900&assertID=7510498495&client_ip=171.8.79.254&SecurityKey=20260618220237&promotionId=&mvid=7510248913&mcid=500020&mpid=120000580452&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4a97626fdc554f59fcc8079028704453&sv=10004&ct=android
+全国青年篮球联赛 新疆广汇vs北京首钢 清流播出 17:25,http://flvhspull2mgsplive.miguvideo.com:80/mglive/mgss132_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510498497&pid=2028597139&timestamp=20260618220237&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965475440&ParentNodeID=-99&playbackbegin=20260618172500&playbackend=20260618191600&assertID=7510498497&client_ip=171.8.79.254&SecurityKey=20260618220237&promotionId=&mvid=7510248914&mcid=500020&mpid=120000580453&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=71f7c626450415a1286bdd0865f8f4d0&sv=10004&ct=android
+全国青年篮球联赛 四川锦城vs苏科雄狮 清流播出 19:25,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss133_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510498499&pid=2028597139&timestamp=20260618220238&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965475458&ParentNodeID=-99&playbackbegin=20260618192500&playbackend=20260618213000&assertID=7510498499&client_ip=171.8.79.254&SecurityKey=20260618220238&promotionId=&mvid=7510248915&mcid=500020&mpid=120000580454&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6ac6c9bcc6b84887cd23bde5744a2dc1&sv=10004&ct=android
+全国青年篮球联赛 天津荣钢vs山东山高 清流播出 19:25,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss134_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510498501&pid=2028597139&timestamp=20260618220238&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965475485&ParentNodeID=-99&playbackbegin=20260618192500&playbackend=20260618212000&assertID=7510498501&client_ip=171.8.79.254&SecurityKey=20260618220238&promotionId=&mvid=7510248916&mcid=500020&mpid=120000580455&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=47a1ef764e31905c03c573d87b1967ed&sv=10004&ct=android
+贵州村超 忠诚村足球队VS车江二村足球队 2026赛季贵州村超联赛第七轮: 忠诚村VS车江二村 18:30,http://flvhspull2mgsplive.miguvideo.com:80/mglive/mgss256_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510496979&pid=2028597139&timestamp=20260618220245&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965428852&ParentNodeID=-99&assertID=7510496979&client_ip=171.8.79.254&SecurityKey=20260618220245&promotionId=&mvid=7510248155&mcid=500020&mpid=120000580233&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ac2429d2a29bf215629e50d405b76dd8&sv=10004&ct=android
+粤超 清远VS揭阳 2026赛季广东省城市足球超级联赛第七轮: 清远VS揭阳 19:30,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss141_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471133&pid=2028597139&timestamp=20260618220246&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964216314&ParentNodeID=-99&assertID=7510471133&client_ip=171.8.79.254&SecurityKey=20260618220246&promotionId=&mvid=7510235232&mcid=500020&mpid=120000574605&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b57087de9a8c33c6fd3d51e2087fffd5&sv=10004&ct=android
+粤超 河源VS惠州 2026赛季广东省城市足球超级联赛第七轮: 河源VS惠州 19:30,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss143_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471147&pid=2028597139&timestamp=20260618220246&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964216352&ParentNodeID=-99&assertID=7510471147&client_ip=171.8.79.254&SecurityKey=20260618220246&promotionId=&mvid=7510235239&mcid=500020&mpid=120000574651&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=389a283da8f5ee3652294b8997cbc4f4&sv=10004&ct=android
+粤超 中山VS江门 2026赛季广东省城市足球超级联赛第七轮: 中山VS江门 19:30,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss145_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471159&pid=2028597139&timestamp=20260618220246&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964216433&ParentNodeID=-99&assertID=7510471159&client_ip=171.8.79.254&SecurityKey=20260618220246&promotionId=&mvid=7510235245&mcid=500020&mpid=120000574655&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4e8d62d665da96bc5ed858ae5659370e&sv=10004&ct=android
+粤超 阳江VS茂名 2026赛季广东省城市足球超级联赛第七轮: 阳江VS茂名 19:30,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss146_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471165&pid=2028597139&timestamp=20260618220246&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964216451&ParentNodeID=-99&assertID=7510471165&client_ip=171.8.79.254&SecurityKey=20260618220246&promotionId=&mvid=7510235248&mcid=500020&mpid=120000574657&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5fa4950490bb35bcf0a5513d532dee8c&sv=10004&ct=android
+齐鲁超赛 滨州创新队VS济南队 2026赛季山东省齐鲁足球超级联赛第六轮: 滨州创新队VS济南队 19:30,http://flvhspull2mgsplive.miguvideo.com:80/mglive/mgss241_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510496577&pid=2028597139&timestamp=20260618220247&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965381470&ParentNodeID=-99&assertID=7510496577&client_ip=171.8.79.254&SecurityKey=20260618220247&promotionId=&mvid=7510247954&mcid=500020&mpid=120000580124&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e0612b516b72576fb83ac1bc0f20d1d3&sv=10004&ct=android
+齐鲁超赛 潍坊队VS德州古贝春 2026赛季山东省齐鲁足球超级联赛第六轮: 潍坊队VS德州古贝春 19:30,http://flvhspull2mgsplive.miguvideo.com:80/mglive/mgss242_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510496579&pid=2028597139&timestamp=20260618220247&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965381478&ParentNodeID=-99&assertID=7510496579&client_ip=171.8.79.254&SecurityKey=20260618220247&promotionId=&mvid=7510247955&mcid=500020&mpid=120000580125&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6b1c0fb6b5250eca609c5f0872886e98&sv=10004&ct=android
+粤超 东莞VS梅州 2026赛季广东省城市足球超级联赛第七轮: 东莞VS梅州 20:00,http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss142_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510471139&pid=2028597139&timestamp=20260618220248&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=964216332&ParentNodeID=-99&assertID=7510471139&client_ip=171.8.79.254&SecurityKey=20260618220248&promotionId=&mvid=7510235235&mcid=500020&mpid=120000574648&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a28b7a7367d4c4338a3138994630458a&sv=10004&ct=android
+贵州村超 车江一村足球队VS水尾村足球队 2026赛季贵州村超联赛第七轮: 车江一村VS水尾村 20:30,http://flvwspull2mgsplive.miguvideo.com:80/mglive/mgss257_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510496981&pid=2028597139&timestamp=20260618220248&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=965428868&ParentNodeID=-99&assertID=7510496981&client_ip=171.8.79.254&SecurityKey=20260618220248&promotionId=&mvid=7510248156&mcid=500020&mpid=120000580234&playurlVersion=WX-A1-9.6.0.4-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e8f5a824727a35224bb5d19596bc11d9&sv=10004&ct=android
 宋小宝经典小品,https://goodiptv.club/douyu/9817729
 经典小品,https://goodiptv.club/douyu/9067836
 开心锤锤,https://goodiptv.club/douyu/9018297
